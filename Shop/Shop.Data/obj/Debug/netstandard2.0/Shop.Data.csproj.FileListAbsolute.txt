@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Shop\Shop.Data\bin\Debug\netstandard2.0\Shop.Data.deps.json
+C:\Users\User\source\repos\Shop\Shop.Data\bin\Debug\netstandard2.0\Shop.Data.dll
+C:\Users\User\source\repos\Shop\Shop.Data\obj\Debug\netstandard2.0\Shop.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Shop\Shop.Data\obj\Debug\netstandard2.0\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Shop\Shop.Data\obj\Debug\netstandard2.0\Shop.Data.AssemblyInfo.cs
